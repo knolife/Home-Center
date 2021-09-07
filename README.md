@@ -59,7 +59,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 See the [open issues](https://github.com/knolife/Home-Center/issues) for a list of proposed features (and known issues).
 
-* initiating the project (Basic infos)
+* initialize the project => <b>IN PROGRESS</b>
 * add new Feature : Display Family calender
 * add new Feature : Sport HIIT exercices generator 
 * add new Feature : Todo Family list
