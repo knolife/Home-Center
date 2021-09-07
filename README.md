@@ -8,8 +8,8 @@
 -->
 
 ![Spring Boot 2.5.4](https://img.shields.io/badge/Spring%20Boot-2.5.4-brightgreen.svg)
-![JDK 11](https://img.shields.io/badge/JDK-11-brightgreen.svg)
-![Maven](https://img.shields.io/badge/Maven-3.8.1-yellowgreen.svg)
+![JDK 11](https://img.shields.io/badge/JDK-11-brightblue.svg)
+![Maven](https://img.shields.io/badge/Maven-3.8.1-redorange.svg)
 
 
 <!-- ABOUT THE PROJECT -->
