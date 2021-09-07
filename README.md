@@ -8,6 +8,7 @@
 -->
 
 ![Spring Boot 2.5.4](https://img.shields.io/badge/Spring%20Boot-2.5.4-brightgreen.svg)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-3.0.12-redorange.svg)
 ![JDK 11](https://img.shields.io/badge/JDK-11-brightblue.svg)
 ![Maven](https://img.shields.io/badge/Maven-3.8.1-redorange.svg)
 
