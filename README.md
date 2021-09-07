@@ -35,13 +35,13 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 
-*todo
+* todo
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/knolife/Home-Center.git
    ```
 to be completed
 
@@ -50,15 +50,19 @@ to be completed
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-todo
+* todo
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/knolife/Home-Center/issues) for a list of proposed features (and known issues).
 
+* initiating the project (Basic infos)
+* add new Feature : Display Family calender
+* add new Feature : Sport HIIT exercices generator 
+* add new Feature : Todo Family list
 
 <!-- CONTACT -->
 ## Contact
